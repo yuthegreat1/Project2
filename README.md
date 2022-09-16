@@ -5,8 +5,8 @@ Our client has an exciting new meat substitute being prepared for market. The pr
 Description: a database of recipes from food.com, this includes data like ingredients and estimated cooking time.
 link https://www.kaggle.com/datasets/irkaal/foodcom-recipes-and-reviews
 ## Data source 2
-Description: An
-link
+Description: An api from the Company Tasty that contains multiple recipes
+link https://rapidapi.com/apidojo/api/tasty
 ## Data source 3
 Description : A database of recipes
 Link : https://www.kaggle.com/datasets/paultimothymooney/recipenlg?resource=download / https://github.com/Glorf/recipenlg
